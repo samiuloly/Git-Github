@@ -1,0 +1,3 @@
+Install vs code in ubuntu: 
+
+sudo snap install --classic code 
